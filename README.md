@@ -23,7 +23,11 @@ This project demonstrates static website hosting using AWS S3.
 - Static Website Hosting
 
 ## Live Website
-Paste your S3 website URL here
+http://poorvika-aws-2026-project.s3-website.eu-north-1.amazonaws.com
+
+## Screenshot
+[aws](screenshot)aws](<screenshot/Screenshot (389).png>)
+
 
 ## Author
 Poorvika H R
